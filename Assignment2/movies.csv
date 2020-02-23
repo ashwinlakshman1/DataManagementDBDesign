@@ -1,0 +1,151 @@
+,movie_names,year_release,imdb_ratings,metascores,votes,movie_description,certificate,runtime,genre,director_name,gross_value
+0,Parasite,(2019),8.6,96.0,265908.0,"
+    A poor family, the Kims, con their way into becoming the servants of a rich family, the Parks. But their easy life gets complicated when their deception is threatened with exposure.",R,132 min,"
+Comedy, Drama, Thriller            ",Bong Joon Ho,
+1,Jojo Rabbit,(2019),8.0,58.0,132181.0,"
+    A young boy in Hitler's army finds out his mother is hiding a Jewish girl in their home.",PG-13,108 min,"
+Comedy, Drama, War            ",Taika Waititi,"349,555"
+2,Sonic the Hedgehog,(2020),6.9,47.0,14401.0,"
+    After discovering a small, blue, fast hedgehog, a small-town police officer must help it defeat an evil genius who wants to do experiments on it.",PG,99 min,"
+Action, Adventure, Comedy            ",Jeff Fowler,
+3,Once Upon a Time... in Hollywood,(2019),7.7,83.0,390536.0,"
+    A faded television actor and his stunt double strive to achieve fame and success in the film industry during the final years of Hollywood's Golden Age in 1969 Los Angeles.",R,161 min,"
+Comedy, Drama            ",Quentin Tarantino,"135,371,627"
+4,Knives Out,(2019),8.0,82.0,183924.0,"
+    A detective investigates the death of a patriarch of an eccentric, combative family.",PG-13,131 min,"
+Comedy, Crime, Drama            ",Rian Johnson,
+5,The French Dispatch,(2020),,,,"
+    A love letter to journalists set in an outpost of an American newspaper in a fictional 20th-century French city that brings to life a collection of stories published in ""The French Dispatch"" magazine.",R,108 min,"
+Comedy, Drama, Romance            ",Wes Anderson,
+6,Sex Education,(2019– ),8.3,,111281.0,"
+    A teenage boy with a sex therapist mother teams up with a high school classmate to set up an underground sex therapy clinic at school.",TV-MA,45 min,"
+Comedy, Drama            ",Asa Butterfield,
+7,Marriage Story,(2019),8.0,93.0,175580.0,"
+    Noah Baumbach's incisive and compassionate look at a marriage breaking up and a family staying together.",R,137 min,"
+Comedy, Drama, Romance            ",Noah Baumbach,
+8,Fantasy Island,(2020),4.7,21.0,3455.0,"
+    A horror adaptation of the popular '70s TV show about a magical island resort.",PG-13,109 min,"
+Adventure, Comedy, Horror            ",Jeff Wadlow,
+9,Dolittle,(2020),5.5,26.0,15295.0,"
+    A physician who can talk to animals embarks on an adventure to find a legendary island with a young apprentice and a crew of strange pets.",PG,101 min,"
+Action, Adventure, Comedy            ",Stephen Gaghan,
+10,Bad Boys For Life,(2020),7.2,59.0,39997.0,"
+    The Bad Boys Mike Lowrey and Marcus Burnett are back together for one last ride in the highly anticipated Bad Boys for Life.",R,124 min,"
+Action, Comedy, Crime            ",Adil El Arbi,
+11,Brooklyn Nine-Nine,(2013– ),8.4,,179105.0,"
+    Jake Peralta, an immature, but talented N.Y.P.D. detective in Brooklyn's 99th Precinct, comes into immediate conflict with his new commanding officer, the serious and stern Captain Ray Holt.",TV-14,22 min,"
+Comedy, Crime            ",Andy Samberg,
+12,Toy Story 4,(2019),7.9,84.0,158051.0,"
+    When a new toy called ""Forky"" joins Woody and the gang, a road trip alongside old and new friends reveals how big the world can be for a toy.",G,100 min,"
+Animation, Adventure, Comedy            ",Josh Cooley,"433,033,071"
+13,BoJack Horseman,(2014–2020),8.7,,87898.0,"
+    BoJack Horseman was the star of the hit television show ""Horsin' Around"" in the '80s and '90s, now he's washed up, living in Hollywood, complaining about everything, and wearing colorful sweaters.",TV-MA,25 min,"
+Animation, Comedy, Drama            ",Will Arnett,
+14,Mythic Quest: Raven's Banquet,(2020– ),7.4,,2164.0,"
+    The cutting-edge comedy is set in a video game development studio and will explore the intricacies of the human condition through hilarious and innovative ways.",TV-MA,,"
+Comedy            ",Rob McElhenney,
+15,Charlie's Angels,(2019),4.4,52.0,24289.0,"
+    When a young systems engineer blows the whistle on a dangerous technology, Charlie's Angels are called into action, putting their lives on the line to protect us all.",PG-13,118 min,"
+Action, Adventure, Comedy            ",Elizabeth Banks,
+16,The Office,(2005–2013),8.8,,338808.0,"
+    A mockumentary on a group of typical office workers, where the workday consists of ego clashes, inappropriate behavior, and tedium.",TV-14,22 min,"
+Comedy            ",Steve Carell,
+17,Frozen II,(2019),7.1,64.0,73822.0,"
+    Anna, Elsa, Kristoff, Olaf and Sven leave Arendelle to travel to an ancient, autumn-bound forest of an enchanted land. They set out to find the origin of Elsa's powers in order to save their kingdom.",PG,103 min,"
+Animation, Adventure, Comedy            ",Chris Buck,
+18,Jumanji: The Next Level,(2019),6.9,58.0,82940.0,"
+    In Jumanji: The Next Level, the gang is back but the game has changed. As they return to rescue one of their own, the players will have to brave parts unknown from arid deserts to snowy mountains, to escape the world's most dangerous game.",PG-13,123 min,"
+Action, Adventure, Comedy            ",Jake Kasdan,
+19,Curb Your Enthusiasm,(2000– ),8.7,,92010.0,"
+    The life and times of Larry David and the predicaments he gets himself into with his friends and complete strangers.",TV-MA,28 min,"
+Comedy            ",Larry David,
+20,Shameless,(2011– ),8.6,,185811.0,"
+    A scrappy, feisty, fiercely loyal Chicago family makes no apologies.",TV-MA,46 min,"
+Comedy, Drama            ",Emmy Rossum,
+21,This Is Us,(2016– ),8.7,,88092.0,"
+    A heartwarming and emotional story about a unique set of triplets, their struggles, and their wonderful parents.",TV-14,45 min,"
+Comedy, Drama, Romance            ",Milo Ventimiglia,
+22,Emma.,(2020),6.8,68.0,1309.0,"
+    In 1800s England, a well meaning but selfish young woman meddles in the love lives of her friends.",PG,125 min,"
+Comedy, Drama            ",Autumn de Wilde,
+23,Cats,(2019),2.8,32.0,26632.0,"
+    A tribe of cats called the Jellicles must decide yearly which one will ascend to the Heaviside Layer and come back to a new Jellicle life.",PG,110 min,"
+Comedy, Drama, Family            ",Tom Hooper,
+24,Friends,(1994–2004),8.9,,737902.0,"
+    Follows the personal and professional lives of six twenty to thirty-something-year-old friends living in Manhattan.",TV-14,22 min,"
+Comedy, Romance            ",Jennifer Aniston,
+25,Schitt's Creek,(2015– ),8.3,,27101.0,"
+    When rich video-store magnate Johnny Rose and his family suddenly find themselves broke, they are forced to leave their pampered lives to regroup in Schitt's Creek.",TV-14,22 min,"
+Comedy            ",Eugene Levy,
+26,The Good Place,(2016–2020),8.2,,88018.0,"
+    Four people and their otherworldly frienemy struggle in the afterlife to define what it means to be good.",TV-PG,22 min,"
+Comedy, Drama, Fantasy            ",Kristen Bell,
+27,Downhill,(2020),4.8,49.0,954.0,"
+    Barely escaping an avalanche during a family ski vacation in the Alps, a married couple is thrown into disarray as they are forced to reevaluate their lives and how they feel about each other.",R,86 min,"
+Comedy, Drama            ",Nat Faxon,
+28,Modern Family,(2009– ),8.4,,322827.0,"
+    Three different but related families face trials and tribulations in their own uniquely comedic ways.",TV-PG,22 min,"
+Comedy, Drama, Romance            ",Ed O'Neill,
+29,Avenue 5,(2020– ),5.9,,4731.0,"
+    Space captain Ryan Clark of the Avenue 5 tries to get along with others in the space tourism industry.",TV-MA,,"
+Comedy, Sci-Fi            ",Hugh Laurie,
+30,The Ranch,(2016– ),7.5,,30795.0,"
+    The son of a Colorado rancher returns home from a semi-pro football career to run the family business.",TV-MA,30 min,"
+Comedy, Drama, Western            ",Ashton Kutcher,
+31,The Two Popes,(2019),7.6,75.0,74593.0,"
+    Behind Vatican walls, the conservative Pope Benedict XVI and the liberal future Pope Francis must find common ground to forge a new path for the Catholic Church.",PG-13,125 min,"
+Biography, Comedy, Drama            ",Fernando Meirelles,
+32,Rick and Morty,(2013– ),9.3,,321552.0,"
+    An animated series that follows the exploits of a super scientist and his not-so-bright grandson.",TV-MA,23 min,"
+Animation, Adventure, Comedy            ",Justin Roiland,
+33,Come to Daddy,(2019),6.1,63.0,3212.0,"
+    A man in his thirties travels to a remote cabin to reconnect with his estranged father.",R,96 min,"
+Comedy, Horror, Thriller            ",Ant Timpson,
+34,Hustlers,(2019),6.4,79.0,53512.0,"
+    Inspired by the viral New York Magazine article, Hustlers follows a crew of savvy former strip club employees who band together to turn the tables on their Wall Street clients.",R,110 min,"
+Comedy, Crime, Drama            ",Lorene Scafaria,"80,553,967"
+35,Grace and Frankie,(2015– ),8.3,,34362.0,"
+    Finding out that their husbands are not just work partners, but have also been romantically involved for the last twenty years, two women with an already strained relationship try to cope with the circumstances together.",TV-MA,30 min,"
+Comedy            ",Lily Tomlin,
+36,The Marvelous Mrs. Maisel,(2017– ),8.8,,62889.0,"
+    A housewife in the 1960s decides to become a stand-up comic.",TV-MA,57 min,"
+Comedy, Drama            ",Rachel Brosnahan,
+37,The Boys,(2019– ),8.7,,131054.0,"
+    A group of vigilantes set out to take down corrupt superheroes who abuse their superpowers.",TV-MA,60 min,"
+Action, Comedy, Crime            ",Karl Urban,
+38,The Big Bang Theory,(2007–2019),8.1,,679602.0,"
+    A woman who moves into an apartment across the hall from two brilliant but socially awkward physicists shows them how little they know about life outside of the laboratory.",TV-14,22 min,"
+Comedy, Romance            ",Johnny Galecki,
+39,6 Underground,(2019),6.1,41.0,101434.0,"
+    Meet a new kind of action hero. Six untraceable agents, totally off the grid. They've buried their pasts so they can change the future.",R,128 min,"
+Action, Adventure, Comedy            ",Michael Bay,
+40,The Peanut Butter Falcon,(2019),7.7,70.0,33517.0,"
+    Zak runs away from his care home to make his dream of becoming a wrestler come true.",PG-13,97 min,"
+Adventure, Comedy, Drama            ",Tyler Nilson,"13,122,642"
+41,Suits,(2011–2019),8.5,,342543.0,"
+    On the run from a drug deal gone bad, brilliant college dropout Mike Ross, finds himself working with Harvey Specter, one of New York City's best lawyers.",TV-14,44 min,"
+Comedy, Drama            ",Gabriel Macht,
+42,Death in Paradise,(2011– ),7.8,,12487.0,"
+    An Irish detective inspector in the UK Police is transferred to Saint-Marie's police department, but he hates the sun, sea and sand. The series follow his investigations into murders on the island. Later series see another British DI head the investigative team.",TV-PG,60 min,"
+Comedy, Crime, Drama            ",Danny John-Jules,
+43,It's Always Sunny in Philadelphia,(2005– ),8.8,,178661.0,"
+    Five friends with big egos and slightly arrogant attitudes are the proprietors of an Irish pub in Philadelphia.",TV-MA,22 min,"
+Comedy            ",Charlie Day,
+44,Thor: Ragnarok,(2017),7.9,74.0,534286.0,"
+    Imprisoned on the planet Sakaar, Thor must race against time to return to Asgard and stop Ragnarök, the destruction of his world, at the hands of the powerful and ruthless villain Hela.",PG-13,130 min,"
+Action, Adventure, Comedy            ",Taika Waititi,"315,058,289"
+45,The Goldbergs,(2013– ),8.1,,28613.0,"
+    This ABC show takes place in Jenkintown, Pennsylvania in the 1980s and follows the lives of a family named The Goldbergs.",TV-PG,22 min,"
+Comedy            ",Wendi McLendon-Covey,
+46,Zombieland: Double Tap,(2019),6.8,55.0,84636.0,"
+    Columbus, Tallahassee, Wichita, and Little Rock move to the American heartland as they face off against evolved zombies, fellow survivors, and the growing pains of the snarky makeshift family.",R,99 min,"
+Action, Comedy, Horror            ",Ruben Fleischer,"26,803,104"
+47,Green Book,(2018),8.2,69.0,292027.0,"
+    A working-class Italian-American bouncer becomes the driver of an African-American classical pianist on a tour of venues through the 1960s American South.",PG-13,130 min,"
+Biography, Comedy, Drama            ",Peter Farrelly,"85,080,171"
+48,Parks and Recreation,(2009–2015),8.6,,189801.0,"
+    The absurd antics of an Indiana town's public officials as they pursue sundry projects to make their city a better place.",TV-14,22 min,"
+Comedy            ",Amy Poehler,
+49,Booksmart,(2019),7.2,84.0,65717.0,"
+    On the eve of their high school graduation, two academic superstars and best friends realize they should have worked less and played more. Determined not to fall short of their peers, the girls try to cram four years of fun into one night.",R,102 min,"
+Comedy            ",Olivia Wilde,"22,680,962"
